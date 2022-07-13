@@ -1,0 +1,19 @@
+{
+  "name": "autotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aminebentayaa/AutoTest.git"
+  },
+  "author": "Amine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aminebentayaa/AutoTest/issues"
+  },
+  "homepage": "https://github.com/Aminebentayaa/AutoTest#readme"
+}
