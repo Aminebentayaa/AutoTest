@@ -1,7 +1,7 @@
 FROM node:14
 
 # Create app directory
-WORKDIR /Users\amine\AutoTest
+WORKDIR /usr/app
 COPY package*.json ./
 COPY . .
 EXPOSE 3000
