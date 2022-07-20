@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aminebentayaa/AutoTest/issues"
   },
-  "homepage": "https://github.com/Aminebentayaa/AutoTest#readme"
+  "homepage": "https://github.com/Aminebentayaa/AutoTest#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
 }
